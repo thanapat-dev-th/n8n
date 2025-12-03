@@ -153,7 +153,7 @@ Make sure the following credentials are configured inside n8n:
 
 ## 👨‍💻 Author
 
-Created by **Your Name**\
+Created by **Thana Patanaverakit**\
 AI Automation / Data & Network Engineer
 
 ------------------------------------------------------------------------
